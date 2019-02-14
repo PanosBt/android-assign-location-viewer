@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocationsViewer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="activity_main_error_msg_empty_user_id">userid is required!</string>
+    <string name="ctivity_main_error_msg_no_coords_found">No locations found for this user!</string>
+    <string name="activity_main_text_view_title">Welcome!</string>
+    <string name="activity_main_text_view_guide">Enter your userid and hit VIEW!</string>
+    <string name="edit_text_userid_hint">userid</string>
+    <string name="button_text_view">VIEW</string>
+</resources>
